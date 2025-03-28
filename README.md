@@ -16,3 +16,10 @@ FullStack Developer<br>
 [![](https://visitcount.itsvg.in/api?id=AnupaKehelgamuwa2004&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Anupakehelgamuwa2004/Anupakehelgamuwa2004/output/snake.svg" alt="Snake animation" />
+
+###
