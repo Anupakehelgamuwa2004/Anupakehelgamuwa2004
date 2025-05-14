@@ -11,7 +11,8 @@
 <div align="center" style="padding-top: 20px;">
   <h2>👩‍💻 About Me</h2>
   <p>
-    Full Stack Developper 
+    Full Stack Developper
+    SE Intern at Ossec.inc
   </p>
 </div>
 
