@@ -12,7 +12,7 @@
   <h2>👩‍💻 About Me</h2>
   <p>
     Full Stack Developper | 
-    SE Intern at Ossec.inc
+    Associate SE at Ossec.inc
   </p>
 </div>
 
